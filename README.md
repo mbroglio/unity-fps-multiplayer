@@ -71,7 +71,7 @@ This project was built during high school as a hands-on exploration of game deve
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mbroglio/first_preson_shooter__high_school_project.git
+   git clone https://github.com/mbroglio/unity-fps-multiplayer.git
    ```
 2. Open Unity Hub and add `3D First Person Shooter - Server/` (or `Game/`) as a project.
 3. Open `Assets/Scenes/Login.unity` or `Assets/Scenes/Player.unity`.
